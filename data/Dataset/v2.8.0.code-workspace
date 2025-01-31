@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../ncs/v2.8.0"
+		},
+		{
+			"name": "test",
+			"path": "../../../../test"
+		},
+		{
+			"name": "anc",
+			"path": "../../../../../../ncs/anc"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cs47l63_sym.h": "c",
+			"sdk_version.h": "c"
+		}
+	}
+}
